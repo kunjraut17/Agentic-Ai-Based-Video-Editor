@@ -1,0 +1,6 @@
+google-generativeai
+python-dotenv
+streamlit
+moviepy==2.1.1
+numpy
+proglog

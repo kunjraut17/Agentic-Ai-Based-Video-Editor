@@ -1,0 +1,4 @@
+Prompt,F1,Edit Success,WER,ROUGE,Time
+Create a highlight and add captions,1.0,1,0.158,0.667,100.3
+Summarize this performance,1.0,1,NA,0.353,88.05
+Summarize this educational video,1.0,1,NA,1.0,230.48
