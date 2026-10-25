@@ -307,15 +307,11 @@ This is an academic/research project and portfolio demonstration. Some agent ope
 
 ## 👤 Author
 
-**Ayush Ramesh Shetty**
+Kunj Shirish Raut
 
 Bachelor of Engineering — Artificial Intelligence & Data Science
 
 MCT's Rajiv Gandhi Institute of Technology, Mumbai
-
-### Project focus
-
-`Agentic AI` · `Generative AI` · `Multi-Agent Systems` · `Computer Vision` · `Natural Language Processing` · `Video Processing`
 
 ---
 
